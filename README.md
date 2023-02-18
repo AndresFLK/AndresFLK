@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AndresFLK&show_icons=true&theme=radical"  />
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFLK&layout=compact&theme=radical"  />
+<img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFLK&layout=compact&theme=radical"  />
 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&badgeColor=black"  />
 <img  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"  />
