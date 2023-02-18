@@ -1,4 +1,4 @@
-## Edgar Andrés Ospina Perilla <p font-size:60px>&#128305;</p>
+## Edgar Andrés Ospina Perilla &#128305;
 
 <ul>
     <li><p>💻 Software Engineer<p/>
