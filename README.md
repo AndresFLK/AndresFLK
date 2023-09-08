@@ -18,5 +18,12 @@
 <img   src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  />
 <hr>
 <img align="center" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFLK&layout=compact&theme=radical"/>
+<hr>
+
+<h3 align="left"> Social </h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/edgar-andrés-ospina-perilla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
 
