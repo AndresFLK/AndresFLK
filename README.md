@@ -41,7 +41,7 @@ As a student pursuing my Software Enginner degree I have developed a strong foun
 
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresFLK&layout=compact&theme=radical" alt="andresflk" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndresFLK&theme=radical&mode=weekly&card_width=400)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndresFLK&theme=radical&mode=weekly&card_width=350)](https://git.io/streak-stats)
 
 
 
