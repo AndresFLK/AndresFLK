@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Edgar Andrés Ospina Perilla 🔱</h1>
 
 <div align="center">
 
@@ -5,7 +6,7 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Edgar Andrés Ospina Perilla 🔱</h1>
+
 As a student pursuing my Software Enginner degree I have developed a strong foundation in web developping skills, it's always great to see what you're creating. 💻🛠 Through my coursework and freelance projects, I have gained hands-on experience, additionally, my design skills allow me to create visually appealing interfaces that enhance user experience. 🎇👾 Always willing to learn new things and not only in tech areas, love cooking and going to the gym! 👨‍🍳🎴
 <br>
 <hr>
